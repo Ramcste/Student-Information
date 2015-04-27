@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.StudentInformation.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
